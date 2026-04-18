@@ -10,7 +10,7 @@ BankGuard is a banking analytics solution built on **Microsoft Fabric** that ans
 
 ---
 
-## 🏗️ Architecture (Simple Version)
+## 🏗️ Architecture
 
 ```
 CSV Files (Simulated Bank Data)
